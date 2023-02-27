@@ -25,7 +25,6 @@ const loginDivStyle = {
 
 const Login = () => {
   return (
-
     <div style={loginContainer}>
         <h1 style={{color:"white"}}>Login</h1>
         <div style={loginDivStyle}>
